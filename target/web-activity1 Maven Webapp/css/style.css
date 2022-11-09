@@ -1,0 +1,10 @@
+body {
+	margin: 50px;
+}
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+}
